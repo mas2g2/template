@@ -54,7 +54,7 @@ Content: Joshua Thompson
 
 Peer Review: Milesh, Christopher
 
-![alt text](Untitled Diagram (3).jpg)
+![alt text](submitimage.jpg)
 
 Use Case Description
 
@@ -113,7 +113,7 @@ Peer Review: Joshua Thompson
 
 
 
-![alt text](RegisterUser (9).jpg)
+![alt text](registeruser.jpg)
 
 
 Use Case Description
